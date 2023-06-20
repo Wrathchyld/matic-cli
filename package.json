@@ -24,7 +24,7 @@
     "esm": "^3.2.18",
     "eth-crypto": "^2.3.0",
     "ethereumjs-util": "^6.2.0",
-    "execa": "^1.0.0",
+    "execa": "^2.1.0",
     "fs-extra": "^9.1.0",
     "ganache-cli": "^6.12.2",
     "inquirer": "^7.0.0",
